@@ -1,1 +1,1 @@
-# ArcoLinux-system-config
+# ArcoLinuxd-system-services
