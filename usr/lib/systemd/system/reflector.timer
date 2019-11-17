@@ -1,5 +1,5 @@
 [Unit]
-Description=Run reflector weekly
+Description=Run reflector
 
 [Timer]
 OnCalendar=Mon *-*-* 7:00:00
